@@ -36,3 +36,13 @@ status-website:
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 
+i18n:
+  allSystemsOperational: 全サイト正常稼働中。
+  scheduledMaintenance: 予定されたメンテナンス
+  liveStatus: 現在の稼働状況
+  pastIncidents: 過去のインシデント
+  overallUptime: "稼働率: $UPTIME"
+  averageResponseTime: "平均応答時間: $TIMEms"
+  averageResponseTimeTitle: 平均応答時間
+  overallUptimeTitle: 稼働率
+  sevelDayResponseTime: １週間の応答時間
