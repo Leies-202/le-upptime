@@ -36,6 +36,9 @@ status-website:
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 
+status-website:
+  theme: dark
+
 i18n:
   allSystemsOperational: 全サイト正常稼働中。
   scheduledMaintenance: 予定されたメンテナンス
