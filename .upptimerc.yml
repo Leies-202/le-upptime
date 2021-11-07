@@ -21,6 +21,7 @@ status-website:
   name: lei202-Site-Upptime
   introTitle: "主にれいすきー用のUptimeサイト"
   introMessage: 試験運用中。なんか赤かったら落ちてます。
+  theme: dark
   navbar:
     - title: Status
       href: /
@@ -35,9 +36,6 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
-
-status-website:
-  theme: dark
 
 i18n:
   allSystemsOperational: 全サイト正常稼働中。
