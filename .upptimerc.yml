@@ -20,7 +20,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: lei202-Site-Upptime
   introTitle: "主にれいすきー用のUptimeサイト"
-  introMessage: [Upptime](https://github.com/upptime/upptime)ってリポジトリを使って試験運用中。
+  introMessage: 試験運用中、
   navbar:
     - title: Status
       href: /
