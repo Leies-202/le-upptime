@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 188,
-    "timeDay": 206,
-    "timeWeek": 183,
-    "timeMonth": 183,
-    "timeYear": 188,
+    "time": 187,
+    "timeDay": 97,
+    "timeWeek": 159,
+    "timeMonth": 179,
+    "timeYear": 187,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 845,
-    "timeDay": 819,
-    "timeWeek": 840,
-    "timeMonth": 845,
+    "timeDay": 923,
+    "timeWeek": 861,
+    "timeMonth": 849,
     "timeYear": 845,
     "dailyMinutesDown": {
       "2021-11-14": 29
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 161,
-    "timeDay": 146,
-    "timeWeek": 128,
-    "timeMonth": 146,
-    "timeYear": 161,
+    "time": 160,
+    "timeDay": 65,
+    "timeWeek": 117,
+    "timeMonth": 142,
+    "timeYear": 160,
     "dailyMinutesDown": {
       "2021-11-30": 17
     }
@@ -63,18 +63,17 @@
     "icon": "https://favicons.githubusercontent.com/blog.lei202.com",
     "slug": "blog",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 285,
-    "timeDay": 362,
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 283,
+    "timeDay": 341,
     "timeWeek": 332,
-    "timeMonth": 251,
-    "timeYear": 285,
+    "timeMonth": 248,
+    "timeYear": 283,
     "dailyMinutesDown": {
-      "2022-02-02": 11,
       "2021-11-07": 5
     }
   }
