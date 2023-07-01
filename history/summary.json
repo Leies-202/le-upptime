@@ -9,15 +9,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 176,
-    "timeDay": 163,
-    "timeWeek": 128,
-    "timeMonth": 137,
-    "timeYear": 154,
-    "dailyMinutesDown": {
-      "2022-07-01": 16
-    }
+    "timeDay": 86,
+    "timeWeek": 130,
+    "timeMonth": 132,
+    "timeYear": 155,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Leisskey(れいすきー)",
@@ -29,18 +27,17 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 956,
-    "timeDay": 1265,
-    "timeWeek": 1136,
-    "timeMonth": 1162,
-    "timeYear": 1007,
+    "uptimeYear": "99.98%",
+    "time": 957,
+    "timeDay": 1381,
+    "timeWeek": 1130,
+    "timeMonth": 1186,
+    "timeYear": 1019,
     "dailyMinutesDown": {
       "2023-02-28": 36,
       "2023-02-13": 18,
       "2023-02-03": 39,
-      "2022-12-23": 18,
-      "2022-07-01": 16
+      "2022-12-23": 18
     }
   },
   {
@@ -55,14 +52,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 178,
-    "timeDay": 219,
-    "timeWeek": 175,
-    "timeMonth": 188,
-    "timeYear": 182,
+    "timeDay": 132,
+    "timeWeek": 181,
+    "timeMonth": 182,
+    "timeYear": 183,
     "dailyMinutesDown": {
       "2023-03-12": 75,
-      "2023-03-11": 0,
-      "2022-07-01": 16
+      "2023-03-11": 0
     }
   },
   {
@@ -77,9 +73,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 281,
-    "timeDay": 259,
-    "timeWeek": 175,
-    "timeMonth": 214,
+    "timeDay": 187,
+    "timeWeek": 179,
+    "timeMonth": 210,
     "timeYear": 293,
     "dailyMinutesDown": {
       "2022-12-08": 17,
