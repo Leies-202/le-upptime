@@ -6,9 +6,9 @@
     "slug": "me",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.02%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 173,
     "timeDay": 106,
@@ -16,7 +16,7 @@
     "timeMonth": 123,
     "timeYear": 151,
     "dailyMinutesDown": {
-      "2023-07-31": 0
+      "2023-07-31": 14
     }
   },
   {
