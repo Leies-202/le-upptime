@@ -61,11 +61,11 @@
     "url": "https://blog.lei202.com",
     "icon": "https://icons.duckduckgo.com/ip3/blog.lei202.com.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 240,
     "timeDay": 103,
@@ -73,7 +73,7 @@
     "timeMonth": 163,
     "timeYear": 190,
     "dailyMinutesDown": {
-      "2024-03-16": 5
+      "2024-03-16": 0
     }
   }
 ]
