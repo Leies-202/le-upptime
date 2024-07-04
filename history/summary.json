@@ -22,9 +22,9 @@
     "url": "https://mk.lei202.com",
     "icon": "https://icons.duckduckgo.com/ip3/mk.lei202.com.ico",
     "slug": "leisskey",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -34,6 +34,7 @@
     "timeMonth": 1072,
     "timeYear": 979,
     "dailyMinutesDown": {
+      "2024-07-04": 0,
       "2024-01-01": 24
     }
   },
