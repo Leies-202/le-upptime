@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 150,
     "timeDay": 206,
-    "timeWeek": 136,
+    "timeWeek": 139,
     "timeMonth": 174,
     "timeYear": 155,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 995,
     "timeDay": 601,
-    "timeWeek": 840,
+    "timeWeek": 884,
     "timeMonth": 888,
     "timeYear": 972,
     "dailyMinutesDown": {
@@ -42,18 +42,20 @@
     "url": "https://lei202.com",
     "icon": "https://icons.duckduckgo.com/ip3/lei202.com.ico",
     "slug": "lei202-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 189,
-    "timeDay": 83,
-    "timeWeek": 174,
-    "timeMonth": 202,
-    "timeYear": 184,
-    "dailyMinutesDown": {}
+    "time": 195,
+    "timeDay": 1611,
+    "timeWeek": 539,
+    "timeMonth": 297,
+    "timeYear": 192,
+    "dailyMinutesDown": {
+      "2024-07-26": 0
+    }
   },
   {
     "name": "Blog",
@@ -68,7 +70,7 @@
     "uptimeYear": "100.00%",
     "time": 186,
     "timeDay": 178,
-    "timeWeek": 157,
+    "timeWeek": 148,
     "timeMonth": 180,
     "timeYear": 177,
     "dailyMinutesDown": {}
