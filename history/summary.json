@@ -42,19 +42,19 @@
     "url": "https://lei202.com",
     "icon": "https://icons.duckduckgo.com/ip3/lei202.com.ico",
     "slug": "lei202-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 195,
-    "timeDay": 1611,
-    "timeWeek": 539,
-    "timeMonth": 297,
+    "time": 194,
+    "timeDay": 1125,
+    "timeWeek": 496,
+    "timeMonth": 292,
     "timeYear": 192,
     "dailyMinutesDown": {
-      "2024-07-26": 0
+      "2024-07-26": 17
     }
   },
   {
