@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 150,
-    "timeDay": 204,
-    "timeWeek": 141,
+    "timeDay": 90,
+    "timeWeek": 140,
     "timeMonth": 173,
     "timeYear": 155,
     "dailyMinutesDown": {}
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 994,
-    "timeDay": 557,
-    "timeWeek": 795,
-    "timeMonth": 872,
-    "timeYear": 971,
+    "time": 993,
+    "timeDay": 837,
+    "timeWeek": 790,
+    "timeMonth": 866,
+    "timeYear": 970,
     "dailyMinutesDown": {
       "2024-01-01": 24
     }
@@ -44,17 +44,16 @@
     "slug": "lei202-com",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 194,
-    "timeDay": 189,
-    "timeWeek": 433,
-    "timeMonth": 285,
+    "time": 193,
+    "timeDay": 178,
+    "timeWeek": 425,
+    "timeMonth": 284,
     "timeYear": 191,
     "dailyMinutesDown": {
-      "2024-07-28": 6,
       "2024-07-26": 17
     }
   },
@@ -69,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 186,
-    "timeDay": 124,
-    "timeWeek": 147,
+    "time": 185,
+    "timeDay": 77,
+    "timeWeek": 143,
     "timeMonth": 178,
-    "timeYear": 176,
+    "timeYear": 175,
     "dailyMinutesDown": {}
   }
 ]
