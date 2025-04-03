@@ -61,19 +61,19 @@
     "url": "https://blog.lei202.com",
     "icon": "https://icons.duckduckgo.com/ip3/blog.lei202.com.ico",
     "slug": "blog",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 181,
-    "timeDay": 158,
-    "timeWeek": 174,
-    "timeMonth": 192,
+    "timeDay": 212,
+    "timeWeek": 185,
+    "timeMonth": 194,
     "timeYear": 189,
     "dailyMinutesDown": {
-      "2025-04-03": 0
+      "2025-04-03": 5
     }
   }
 ]
