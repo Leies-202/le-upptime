@@ -14,8 +14,10 @@
     "timeDay": 170,
     "timeWeek": 207,
     "timeMonth": 198,
-    "timeYear": 174,
-    "dailyMinutesDown": {}
+    "timeYear": 175,
+    "dailyMinutesDown": {
+      "2025-06-01": 0
+    }
   },
   {
     "name": "Leisskey(れいすきー)",
