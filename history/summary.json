@@ -45,9 +45,9 @@
     "url": "https://lei202.com",
     "icon": "https://icons.duckduckgo.com/ip3/lei202.com.ico",
     "slug": "lei202-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -57,6 +57,7 @@
     "timeMonth": 252,
     "timeYear": 247,
     "dailyMinutesDown": {
+      "2025-10-20": 0,
       "2025-04-29": 76,
       "2025-04-28": 1
     }
