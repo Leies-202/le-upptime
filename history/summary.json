@@ -27,17 +27,17 @@
     "url": "https://mk.lei202.com",
     "icon": "https://icons.duckduckgo.com/ip3/mk.lei202.com.ico",
     "slug": "leisskey",
-    "status": "down",
+    "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "5.12%",
-    "uptimeWeek": "54.42%",
-    "uptimeMonth": "89.51%",
-    "uptimeYear": "99.02%",
-    "time": 1436,
-    "timeDay": 18531,
-    "timeWeek": 17112,
-    "timeMonth": 8177,
-    "timeYear": 1618,
+    "uptimeDay": "5.13%",
+    "uptimeWeek": "53.37%",
+    "uptimeMonth": "89.27%",
+    "uptimeYear": "99.00%",
+    "time": 1437,
+    "timeDay": 15590,
+    "timeWeek": 16339,
+    "timeMonth": 8015,
+    "timeYear": 1616,
     "dailyMinutesDown": {
       "2025-11-18": 140,
       "2026-04-06": 164,
@@ -46,7 +46,7 @@
       "2026-08-12": 394,
       "2026-08-14": 1381,
       "2026-08-15": 1411,
-      "2026-08-16": 188
+      "2026-08-16": 294
     }
   },
   {
